@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src\\app",
+    "\\src\\app\\pages",
+    "\\src\\app\\pages\\invite",
+    "\\src\\app\\pages\\landing"
+  ],
+  "SelectedNode": "\\tsconfig.app.json",
+  "PreviewInSolutionExplorer": false
+}
